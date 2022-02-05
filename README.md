@@ -2,7 +2,7 @@
 
 </br>
 
-> [twitter]( https://twitter.com/dpcalFola ) {:target="_blank"}
+> [twitter]( https://twitter.com/dpcalFola )
 
 
 
