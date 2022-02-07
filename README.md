@@ -1,4 +1,4 @@
-# Hello !! This is Fola Flor 🌺
+# Hello !! This is Fola Flor 🌟
 
 </br>
 
@@ -6,9 +6,22 @@
 
 </br>
 
+
+
+
+</br>
+
+> MY solved.ac stats
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcalfola)](https://solved.ac/dpcalfola)
 
+</br>
+</br>
+
+> My Leetcode stats
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dpcalfola&theme=nord&width=400)
 
 
 <!--
