@@ -1,9 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello🌟%20%20I'm%20Fola%20Flor&fontAlign=50&fontAlignY=40&color=gradient)
  
-
 </br>
-</br>
-
 
 ### **I'm learning intensively**
  
@@ -12,7 +9,7 @@
 
 ### **Secondary lerning skills are**
 
- <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white">
 </br>
 
