@@ -1,8 +1,25 @@
-# Hello !! This is Fola Flor 🌟
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello🌟%20%20I'm%20Fola%20Flor&fontAlign=50&fontAlignY=40&color=gradient)
+ 
+
+</br>
+</br>
+</br>
+</br>
+
+> I'm learning intensively
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+
+
+
+
 
 </br>
 
-> [twitter]( https://twitter.com/dpcalFola )
+> If you want to contact me
+ 
+[twitter]( https://twitter.com/dpcalFola )
 
 </br>
 
