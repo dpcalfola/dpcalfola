@@ -15,12 +15,12 @@
 
 ### **And I use**
 
-<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/JetBrains-303943?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> 
 </br>
 
 ### **If you want to contact me**
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpcalfola@gmail.com)](mailto:dpcalfola@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/dpcalfola@gmaill.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpcalfola@gmail.com)](mailto:dpcalfola@gmail.com) <br/>
 [![twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dpcalFola)](https://twitter.com/dpcalFola)
  
 
