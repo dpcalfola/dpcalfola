@@ -20,9 +20,10 @@
 
 ### **If you want to contact me**
 
-[![Gmail Badge](https://img.shields.io/badge/dpcalfola@gmaill.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpcalfola@gmail.com)](mailto:dpcalfola@gmail.com) <br/>
+[![Gmail Badge](https://img.shields.io/badge/dpcalfola@gmaill.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpcalfola@gmail.com)](mailto:dpcalfola@gmail.com)
 [![twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dpcalFola)](https://twitter.com/dpcalFola)
- 
+[![blog Badge](https://img.shields.io/badge/TSTORY_BLOG-808080?style=for-the-badge&logo=&logoColor=white&link=https://twitter.com/dpcalFola)](https://dpcalfola.tistory.com/)<br>
+
 
 </br>
 </br>
