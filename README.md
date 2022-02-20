@@ -9,20 +9,26 @@
 
 ### **Secondary lerning skills are**
 
- <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">
- <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> 
 </br>
 
 ### **And I use**
 
-<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> 
+<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> 
 </br>
+
+### **My pages**
+
+[![blog Badge](https://img.shields.io/badge/TSTORY_BLOG-808080?style=for-the-badge&logo=velog&logoColor=white&link=https://dpcalfola.tistory.com)](https://dpcalfola.tistory.com/)
+[![velog Badge](https://img.shields.io/badge/Develop_Warehouse-008E89?style=for-the-badge&logo=velog&logoColor=white&link=https://twitter.com/dpcalFola)](https://velog.io/@dpcalfola)<br>
+
 
 ### **If you want to contact me**
 
 [![Gmail Badge](https://img.shields.io/badge/dpcalfola@gmaill.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpcalfola@gmail.com)](mailto:dpcalfola@gmail.com)
 [![twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dpcalFola)](https://twitter.com/dpcalFola)
-[![blog Badge](https://img.shields.io/badge/TSTORY_BLOG-808080?style=for-the-badge&logo=&logoColor=white&link=https://twitter.com/dpcalFola)](https://dpcalfola.tistory.com/)<br>
+
 
 
 </br>
