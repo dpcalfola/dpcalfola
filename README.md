@@ -4,13 +4,13 @@
 
 ### **I'm learning intensively**
  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> 
 </br>
 
 ### **Secondary learning skills are**
 
-<img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">
- <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> 
+ <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"> 
+ 
 </br>
 
 ### **And I use**
