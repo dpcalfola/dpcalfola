@@ -4,7 +4,7 @@
 
 ### **I'm learning intensively**
  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> 
 </br>
 
 ### **Secondary learning skills are**
@@ -15,7 +15,7 @@
 
 ### **And I use**
 
-<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> 
+<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-00205b?style=for-the-badge&logo=WebStorm&logoColor=white"> 
 </br>
 
 ### **My pages**
@@ -36,10 +36,14 @@
 
 > My Badges
 > 
+
+> 
 > [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcalfola)](https://solved.ac/dpcalfola)
 > 
-> ![Leetcode Stats](https://leetcode.card.workers.dev/?username=dpcalfola&theme=nord&width=400)
 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpcalfola&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- > ![Leetcode Stats](https://leetcode.card.workers.dev/?username=dpcalfola&theme=nord&width=400) -->
 
 <!--
 **dpcalfola/dpcalfola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
