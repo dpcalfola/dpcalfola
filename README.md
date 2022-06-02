@@ -39,6 +39,6 @@
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpcalfola&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 > Algorithm handles
->| Beckjoon | Leetcode | codeforces |
+>| Beckjoon | Leetcode | Codeforces |
 >|---|---|---|
 >| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcalfola)](https://solved.ac/dpcalfola) | [![Leetcode Stats](https://leetcode.card.workers.dev/?username=dpcalfola&theme=nord&width=400)](https://leetcode.com/dpcalfola)| [![CodeForces Profile](https://cf.leed.at?id=dpcalfola)](https://codeforces.com/profile/dpcalfola)
