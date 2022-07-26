@@ -13,11 +13,11 @@
  
 </br>
 
-### **And I use**
+<!-- ### **And I use**
 
-<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-00205b?style=for-the-badge&logo=WebStorm&logoColor=white"> <img src="https://img.shields.io/badge/Synology Nas-B5B5B6?style=for-the-badge&logo=Synology&logoColor=white">
+<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-00205b?style=for-the-badge&logo=WebStorm&logoColor=white"> <img src="https://img.shields.io/badge/Synology Nas-B5B5B6?style=for-the-badge&logo=Synology&logoColor=white"> 
 </br>
-
+-->
 ### **My pages**
 
 [![blog Badge](https://img.shields.io/badge/TSTORY_BLOG-808080?style=for-the-badge&logo=velog&logoColor=white&link=https://dpcalfola.tistory.com)](https://dpcalfola.tistory.com/)
