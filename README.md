@@ -4,20 +4,24 @@
 
 ### **I'm learning intensively**
  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black">  <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496Ed?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JAVAFX-6ddcba?style=for-the-badge&logo=java&logoColor=black"> 
 </br>
 
 ### **Secondary learning skills are**
 
- <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"> 
+ <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javaScript&logoColor=white">  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">  <img src="https://img.shields.io/badge/Rust-971f3c?style=for-the-badge&logo=Rust&logoColor=white">
  
-</br>
+<!-- </br>
 
-<!-- ### **And I use**
+### **And I use**
 
-<img src="https://img.shields.io/badge/Monterey-6f1b92?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-00205b?style=for-the-badge&logo=WebStorm&logoColor=white"> <img src="https://img.shields.io/badge/Synology Nas-B5B5B6?style=for-the-badge&logo=Synology&logoColor=white"> 
-</br>
--->
+<img src="https://img.shields.io/badge/macos_ventura-D97e2e?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/JetBrains_all_product-313746?style=for-the-badge&logo=Jetbrains&logoColor=white">  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">   <img src="https://img.shields.io/badge/Synology Nas-B5B5B6?style=for-the-badge&logo=Synology&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/IntelliJ IDEA-313746?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-65C18C?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/dataGrip-313746?style=for-the-badge&logo=datagrip&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-00205b?style=for-the-badge&logo=WebStorm&logoColor=white"> 
+</br>  -->
+
+<br>
+ 
 ### **My pages links**
 
 [![blog Badge](https://img.shields.io/badge/TSTORY_BLOG-808080?style=for-the-badge&logo=velog&logoColor=white&link=https://dpcalfola.tistory.com)](https://dpcalfola.tistory.com/)
